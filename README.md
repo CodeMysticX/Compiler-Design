@@ -41,7 +41,6 @@ To compile a source file, use the following command:
 bash:
 ./compiler input_file.ext -o output_file
 
-Explore the examples/ directory for sample programs.
 
 # Contributions Welcome 🎉
 We welcome contributions from the community! Whether it's fixing bugs, implementing new features, or improving documentation, every contribution is valuable.
