@@ -19,17 +19,20 @@ git clone https://github.com/your-username/compiler-design.git
 # Install Dependencies ⚙️
 
 bash:
+
 cd compiler-design
 npm install
 
 # Build the Compiler 🛠️
 
 bash:
+
 npm run build
 
 # Run Tests 🧪
 
 bash:
+
 npm test
 
 # Usage 🚀
