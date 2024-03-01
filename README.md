@@ -1,17 +1,14 @@
 # Compiler Design 🖥️
-Welcome to the Compiler Design repository! This project aims to implement a compiler for a custom programming language from scratch. 🚀
+Welcome to the Compiler Design repository! This project aims to implement lexical analysis for a custom programming language using Lex. 🚀
 
 # Overview 📝
-Our compiler translates source code written in our custom language into executable machine code, enabling developers to build powerful software efficiently.
+Our lexical analyzer processes source code written in our custom language, providing the foundational step towards building a complete compiler system.
 
 # Features ✨
+
 Lexical Analysis 📝
-Syntax Analysis 🧩
-Semantic Analysis 🧠
-Intermediate Code Generation 🛠️
-Optimization 🚀
-Code Generation 💻
-Getting Started 🚦
+
+# Getting Started 🚦
 Follow these steps to set up the compiler development environment:
 
 # Clone the Repository 🔄
